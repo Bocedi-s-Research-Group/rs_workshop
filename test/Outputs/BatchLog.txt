@@ -1,0 +1,34 @@
+Checking Control file .\test\Inputs/CONTROL.txt
+
+Checking ParameterFile .\test\Inputs\ParameterFile_ex4.txt
+ParameterFile OK: total no. of simulations = 1
+
+Checking LandFile .\test\Inputs\LandFile_ex4.txt
+LandscapeFile headers OK: .\test\Inputs\landscape_10m_batch.txt
+PatchFile headers OK: .\test\Inputs\woodland_1ha_patchIDs.txt
+SpDistFile headers OK: .\test\Inputs\patch30.txt
+LandFile OK: total no. of landscapes = 1
+
+Checking StageStructFile .\test\Inputs\StageStructFile_ex4.txt
+Checking TransMatrixFile .\test\Inputs\TransitionMatrix_ex4A.txt
+TransMatrixFile OK
+StageStructFile OK: total no. of simulations = 1
+
+Checking EmigrationFile .\test\Inputs\EmigrationFile_ex4.txt
+EmigrationFile OK: total no. of simulations = 1
+
+Checking TransferFile .\test\Inputs\TransferFile_ex4.txt
+Checking SMS format file for LandType = 0
+TransferFile OK: total no. of simulations = 1
+
+Checking SettlementFile .\test\Inputs\SettlementFile_ex4.txt
+SettlementFile OK: total no. of simulations = 1
+
+Checking GeneticsFile .\test\Inputs\GeneticsFile_example.txt
+GeneticsFile OK: total no. of simulations = 0
+
+Checking TraitsFile .\test\Inputs\TraitsFile_example.txt
+TraitsFile OK: total no. of simulations = 0
+
+Checking InitialisationFile .\test\Inputs\InitialisationFile_ex4.txt
+InitialisationFile OK: total no. of simulations = 1
