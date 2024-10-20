@@ -1,0 +1,2 @@
+Simulation	StageDep	SexDep	Stage	Sex	DensDep	IndVar	FindMate	MinSteps	MaxSteps	MaxStepsYear	S0	AlphaS	BetaS
+1	0	0	0	0	0	0	0	0	0	0	-9	-9	-9

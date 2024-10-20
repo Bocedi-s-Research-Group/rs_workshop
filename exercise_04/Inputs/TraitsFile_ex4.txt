@@ -1,0 +1,2 @@
+Simulation	TraitType	ExprSex	Positions	NbrOfPositions	ExpressionType	 InitialDistribution	InitialParameters	DominanceDistribution	DominanceParameters	IsInherited	MutationDistribution	MutationParameters	MutationRate	OutputValues
+1	neutral	#	0-9	#	#	uniform	max=255	#	#	TRUE	KAM	max=255	0.005	TRUE

@@ -1,0 +1,4 @@
+Simulation	GenomeSize	ChromosomeEnds	RecombinationRate	OutputGeneValues	OutputFstatsWeirCockerham	OutputFstatsWeirHill	OutputStartGenetics	OutputInterval	PatchList	NbrPatchesToSample	nIndividualsToSample	Stages
+1	10	#	#	TRUE	TRUE	TRUE	0	2	all	#	all	0
+2	10	#	#	TRUE	TRUE	TRUE	0	2	all	#	all	0
+3	10	#	#	TRUE	TRUE	TRUE	0	2	all	#	all	0

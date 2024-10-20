@@ -1,0 +1,2 @@
+Simulation	GenomeSize	ChromosomeEnds	RecombinationRate	OutputGeneValues	OutputFstatsWeirCockerham	OutputFstatsWeirHill	OutputStartGenetics	OutputInterval	PatchList	NbrPatchesToSample	nIndividualsToSample	Stages
+1	36	"2,5,8,11,14,17,20,23,26,29,32,35"	0.25	TRUE	FALSE	FALSE	0	4000	random	10	10	1

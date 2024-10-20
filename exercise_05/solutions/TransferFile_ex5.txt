@@ -1,0 +1,2 @@
+Simulation	IndVar	PR	PRMethod	DP	MemSize	GB	GoalType	AlphaDB	BetaDB	StraightenPath	SMtype	SMconst	MortHabitat	MortMatrix	CostHabitat	CostMatrix
+1	0	3	2	1.5	3	1.2	2	0.0001	1000	1	1	0.01	0	0.02	1	50

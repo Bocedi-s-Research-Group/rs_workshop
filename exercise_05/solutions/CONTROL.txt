@@ -1,0 +1,22 @@
+BatchNum	5
+PatchModel	0
+Resolution	100
+LandType	9
+MaxHabitats	1
+SpeciesDist	0
+DistResolution	100
+Reproduction	1
+RepSeasons	1
+StageStruct	1
+Stages	2
+Transfer	1
+ParameterFile	ParameterFile_ex5.txt
+LandFile	LandFile_ex5.txt
+StageStructFile	StageStructFile_ex5.txt
+EmigrationFile	EmigrationFile_ex5.txt
+TransferFile	TransferFile_ex5.txt
+SettlementFile	SettlementFile_ex5.txt
+GeneticsFile	GeneticsFile_ex5.txt
+TraitsFile	TraitsFile_ex5.txt
+InitialisationFile	InitialisationFile_ex5.txt
+
