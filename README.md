@@ -22,11 +22,9 @@ This repo contains:
 
 ## Running RangeShifter
 
-
-
 After cloning or downloading this repository, open the Windows PowerShell or a Unix shell and navigate to the location of this repository with the `cd` command.
 
-To run the executable, simply type `.\RangeShifter.exe <path_to_project_dir>`
+To run the executable, simply type `.\RangeShifter.exe <path_to_project_dir>` (Windows) or `./RangeShifter <path_to_project_dir>` (Linux),
 
 where `<path_to_project_dir>` is a path to a directory containing the Inputs, Outputs and Output_Maps subfolder.
 
@@ -36,12 +34,12 @@ Before getting started with RangeShifter, make sure that the executable runs cor
 .\RangeShifter.exe .\test\
 ```
 
-The output should display
+If the output displays something starting with 
 
 ```shell
 RangeShifter Release Mode
-
-Batch input files OK
 ```
 
-If you get something else, talk to one of the workshop facilitators. Otherwise, you're all set!
+you're all set!
+
+If you get something else, talk to one of the workshop facilitators. 
